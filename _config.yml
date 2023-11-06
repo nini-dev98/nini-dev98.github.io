@@ -23,7 +23,7 @@ name                     : "Nini Tech"
 description              : "Welcome to Nini Tech. This blog is designed to share my experiences, challenges and practical tips as I embark on this exciting self-learning journey in the tech world. Let's learn and grow together"
 url                      : "https://nini-tech23.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "nini-tech23/nini-tech-comments"
+repository               : "nini-tech23/blog-comments"
 teaser                   : "/assets/images/teaser.jpg"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
