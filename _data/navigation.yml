@@ -1,7 +1,13 @@
 # main links
 main:
-  - title: "Categories"
-    url: /categories/
-  - title: "About"
+  - title: "Home"
+    url: "/"
+  - title: "Learning"
+    url: /categories/learning/
+  - title: "Projects"
+    url: /categories/projects/
+  - title: "Tutorial"
+    url: /categories/tutorial/
+  - title: "About Me"
     url: /about/
 
