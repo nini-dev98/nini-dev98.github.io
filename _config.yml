@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Coding with Nini: Unraveling Data Science and self-learning process"
+title                    : "Coding and learning with Nini"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nini Tech"
@@ -86,7 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/logo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Nini Tech"
   avatar           : "/assets/images/teaser.jpg"
-  bio              : "Data scientist loves self-learning."
+  bio              : "A self-taught data scientist and developer on continuous learning and exploration."
   location         : "Mongolia"
   email            :
   links:
@@ -290,3 +290,14 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false  
