@@ -27,7 +27,7 @@ repository               : "nini-tech23/blog-comments"
 teaser                   : "/assets/images/teaser.jpg"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : True # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -300,4 +300,4 @@ defaults:
       read_time: false
       comments: false
       share: true
-      related: false  
+      related: false
