@@ -1,6 +1,6 @@
 ---
 title: "Statistics & Programming learning"
-permanlink: /categoies/learning/
+permanlink: /categoies/Learning/
 layout: categories
 author_profile: true
 taxonomy: learning
