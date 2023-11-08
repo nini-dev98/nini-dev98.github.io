@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "Nini Tech"
-  avatar           : "/assets/images/teaser.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "A self-taught data scientist and developer on continuous learning and exploration."
-  location         : "Mongolia"
+  location         : "Ulaanbaatar, Mongolia"
   email            :
   links:
     - label: "Email"
@@ -275,7 +275,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
+# collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -301,3 +305,11 @@ defaults:
       comments: false
       share: false
       related: false
+  # _portfolio:
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: false

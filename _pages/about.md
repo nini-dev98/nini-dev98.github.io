@@ -1,8 +1,7 @@
 ---
-title: "About Nini Tech Blog"
+title: "Hello, I am Nini Tech!"
 permalink: /about/
 layout: single
 ---
-
-## What You'll Find Here 
-Welcome to Nini Tech. This blog is my digital journal where I share my experiences, challenges and practical tips as I embark on this exciting self-learning journey in the tech world. Let's learn and grow together
+ 
+I am a graduate student majoring in Bioinformatics in Seoul National university. My bachelor degree was Biological Science, so studying Bioinformatics and transfering to tech field was difficult. That's why I decided to journal my progress and learning journey. 
