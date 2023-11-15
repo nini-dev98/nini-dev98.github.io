@@ -4,7 +4,7 @@ excerpt: "Өөрийн портфолиогоо Github Pages ашиглан бл
 date: 2023-11-05
 author_profile: true
 header:
-    teaser: /assets/images/github_pages.jpg
+    teaser: /assets/images/github_blog_intro.png
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

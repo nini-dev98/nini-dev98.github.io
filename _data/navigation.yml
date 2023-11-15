@@ -6,7 +6,7 @@ main:
     url: /categories/
     description: "Explore the fundamentals of programming languages (Python,R, HTML, etc.,) and coding related basic algebra and statistics concepts. Also, you can practice your knowledge through beginner-friendly teaching and engaging tutorials"
   - title: "Projects"
-    url: /projects/
+    url: /portfolio/
     description: "Explore a collection of both ongoing and completed projects"
   - title: "About Me"
     url: /about/

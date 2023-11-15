@@ -24,8 +24,8 @@ description              : "Welcome to Nini Tech. This blog is designed to share
 url                      : "https://nini-tech23.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nini-tech23/blog-comments"
-teaser                   : "/assets/images/default_teaser.svg"
-logo                     : "/assets/images/new_logo.png"
+teaser                   : "/assets/images/default_teaser.png"
+logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : False # true, false (default)
 words_per_minute         : 200
@@ -86,7 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/new_logo.png"
+og_image                 : "/assets/images/logo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -311,5 +311,5 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: false
