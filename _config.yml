@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Coding and learning with Nini"
+title                    : "Coding and Learning with Nini"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nini Tech"
@@ -24,10 +24,10 @@ description              : "Welcome to Nini Tech. This blog is designed to share
 url                      : "https://nini-tech23.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nini-tech23/blog-comments"
-teaser                   : "/assets/images/teaser.jpg"
-logo                     : "/assets/images/logo.png"
+teaser                   : "/assets/images/default_teaser.svg"
+logo                     : "/assets/images/new_logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : True # true, false (default)
+breadcrumbs              : False # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -86,7 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/logo.png"
+og_image                 : "/assets/images/new_logo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
