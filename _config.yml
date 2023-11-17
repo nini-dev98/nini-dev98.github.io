@@ -28,7 +28,7 @@ teaser                   : "/assets/images/default_teaser.png"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : False # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 100
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
