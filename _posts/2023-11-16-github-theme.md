@@ -67,7 +67,12 @@ $ bundle exec jekyll serve
 
 ![blog repo push](/assets/images/blog_repo_push.png)
 
-Шинэ Github repository үүсгэсний дараа өмнө нь локал компьютер дээр татаж авсан minimal-mistakes directory доторхи бүх файл болон folder-уудаа push хийнэ
+Шинэ Github repository үүсгэсний дараа өмнө нь локал компьютер дээр татаж авсан minimal-mistakes directory доторхи бүх файл болон folder-уудаа push хийнэ. Түүний өмнө нь эмх цэгцтэй байхын тулд minimal-mistakes directory-ийн нэрээ user.github.io гэсэн github remote repo нэртэй болчихвол зүгээр.
+
+```shell
+$ mv minimal-mistakes username.github.io
+$ cd username.github.io
+```
 
 Github remote repository-оо дараах коммандын дагуу локал directory-д холбож git commit & push command ашиглан бүх файл болон folder-уудаа upload хийнэ.
 

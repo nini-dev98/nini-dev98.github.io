@@ -5,6 +5,9 @@ date: 2023-11-05
 author_profile: true
 header:
     teaser: /assets/images/github_blog_1.png
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 categories:
   - Github Blog Tutorial
 tags:
