@@ -3,7 +3,7 @@ title: "Command Line Interfaces (CLIs) танилцуулга & bash setup (Wind
 excerpt: 
 date: 2023-11-03
 header: 
-    teaser: /assets/inages/gitbash.png
+    teaser: /assets/images/gitbash.png
 toc: true
 toc_label: Table of Contents
 toc_icon: cog
