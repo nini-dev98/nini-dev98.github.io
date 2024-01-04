@@ -1,6 +1,6 @@
 ---
 title: "Excursion app landing page"
-excerpt: "Welcome to the Excursion web page project! In this project, I created a captivating landing page to advertise a mobile app called Excursion by utilizing my skills in HTML, CSS, Command Line Interface (CLI), Git, and GitHub."
+excerpt: "I created a landing page to advertise a mobile app called Excursion by utilizing my skills in HTML, CSS, Command Line Interface (CLI), Git, and GitHub."
 header:
     teaser: /assets/images/excursion.png
     image: /assets/images/excursion.png
